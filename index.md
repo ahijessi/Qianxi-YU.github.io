@@ -4,38 +4,25 @@ layout: homepage
 
 ## About Me
 
-<!-- I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Statistics</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>, -->
-I'm a Ph.D. candidate in Statistics at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>,
-<!-- 's <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a> -->
-<!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
-working under the mentorship of Prof.<a href="https://scholar.google.com/citations?user=QtyFQVYAAAAJ&hl=en" target="_blank"> Thaddeus Tarpey</a>. My research involves developing statistical models that cater to high-dimensional complex data, such as functional and imaging data. This endeavor confronts two main challenges: First, how to define a metric with self-consistent property to cluster a population into subgroups, based on rich and complex tensor data for each individual. Second, how to develop a semi-supervised clustering algorithm, directed by a specific label, to accurately identify subgroups that align closely with a target subgroup of interest.
+I am a recent MA graduate in Linguistics from Nanjing University of Science and Technology as of March 2024. I am currently working as a research assistant at Zhejiang University.
 
-In the summer of 2022, I had the opportunity to work as a Research Data Scientist Intern at <a href="https://about.google" target="_blank"> Google</a>, where I applied my statistical skills to real-world problems. Prior to joining the Ph.D. program, I completed my master's degree in Biostatistics and Data Science from <a href="https://www.cornell.edu" target = "_blank"> Cornell University</a> advised by Prof. <a href= "https://www.idiaz.xyz" target = "_blank"> Iván Díaz</a>.
-<!-- and my bachelor's degree in International Finance from <a href="https://www.cueb.edu.cn" target = "_blank"> Capital University of Economics and Business</a>.  -->
+During my MA journey, I focused on the language development of children with cochlear implants, particularly in Mandarin tone production and irony comprehension. I had the privilege of being supervised by Associate Professor Tang Ping and receiving guidance from Assistant Professors Li Shanpeng and Li Honglan, as well as Professor Chen Yin at the LIPA lab in NJUST.
 
-<!-- 
-I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
+Now, as I begin my role at Zhejiang University under the guidance of Professor Ding Nai, I’m expanding my horizons by exploring the neural mechanisms of auditory attention and children’s syntactic awareness development.
 
-Outside of academia, I began my journey as a professional swimmer at the age of 5 and went on to achieve several regional and national championships. I'm also passionate about Chinese calligraphy, and my artwork has been exhibited in top galleries and museums including the <a href="http://www.namoc.org/" target="_blank"> National Art Museum of China (Beijing)</a>. In addition, I am also interested in oil painting, and aeromodelling.
+I am particularly interested in the language development of both typical and atypical children, utilizing both behavioural and neural experiments. My focus is on the role of multimodal cues, such as prosody and facial expressions, in daily communication and exploring the mechanisms behind these effects.
+
+With a background in Linguistics, especially in phonetics, I am also deeply interested in psychology and neuroscience. I look forward to engaging in more multidisciplinary projects in the future.
 
 
-## Research Interests
-- **Causal Inference and Precision Medicine:** causal subpopulation identification, mediation analysis, personalized recommendation based on treatment effect and generated effect modifiers
-- **Machine Learning:** fairness ML, semi-supervised learning
-- **Manifold Learning and Metric Learning:** positive semi-definite manifold learning and metric learning
-- **Functional Data Analysis:** functional regression, and clustering methods
+## Publications
+- **Yu, Q.**, Li, H., Li, S., & Tang, P. (In press). Prosodic and Visual Cues Facilitate Irony Comprehension by Mandarin-Speaking Children with Cochlear Implants. Journal of Speech, Language and Hearing Research. (SSCI, Q1)
+- Tang, P., Shen, Y., Li, S., **Yu, Q.**,& Feng, Y. (In press). Visual-Articulatory Cues Facilitate Children with CIs to better perceive Mandarin Tones in Sentences. Speech Communication. (SCIE, Q2)
+- Li, S., Wang, Y., Feng, Y., **Yu, Q.**, & Tang, P. (In press). The Effect of Visual-Articulatory Cues on the Identification of Mandarin Tones by Children with Cochlear Implants. Journal of Speech, Language and Hearing Research. (SSCI, Q1)
+- **Yu, Q.**, Shen, Y., Wang, L., & Tang, P. (2023). The Acquisition of Mandarin Tones by Children with Cochlear Implants: Effects of Age at Implantation and Cochlear Implant Experience. Chinese Journal of Phonetics. (AMI Core journal in China)
+- **Yu, Q.**, & Tang, P. (2021). The Role of High Variability Phonetic Training on Chinese EFL Learners’ Perception of English Vowels in Noisy Environment. In Proceedings of the 24th Conference of the Oriental COCOSDA International Speech Databases and Assessment Techniques (O-COCOSDA), November 18-20, Singapore (pp. 94-99).IEEE. (EI)- <a href="https://github.com/Hanchao-Zhang/LeetCode-Prep/blob/main/main.pdf" target="_blank">*A Coding Question Prep*</a> by Hanchao Zhang
 
-
-## Awards
-- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
-
-
-<!-- {% include_relative _includes/publications.md %} -->
-
-{% include_relative _includes/projects.md %}
-
-{% include_relative _includes/talks.md %}
-
+## Presentation
 
 
 
