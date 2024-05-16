@@ -53,7 +53,7 @@ I love walking through nature, breathing in  the fresh air, and basking in the s
 
 
 
-Playing with my cat is another source of comfort and relaxation, as there's nothing quite like the feel of her soft fur.![cat](https://github.com/ahijessi/Qianxi-YU.github.io/assets/78820942/a97f00ab-b724-4540-97e8-7678a847e097)
+Playing with my cat is another source of comfort and relaxation, as there's nothing quite like the feel of her soft fur.<img src="https://github.com/ahijessi/Qianxi-YU.github.io/assets/78820942/a97f00ab-b724-4540-97e8-7678a847e097" width="300" height="300>
 
 
 My musical tastes are eclectic, spanning jazz, hip-hop, K-pop, and classical, and recently, I've been drawn to Afrobeat. 
