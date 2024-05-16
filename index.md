@@ -15,13 +15,13 @@ I am particularly interested in the language development of both typical and aty
 With a background in Linguistics, especially in phonetics, I am also deeply interested in psychology and neuroscience. I look forward to engaging in more multidisciplinary projects in the future.
 
 ## Education
-[2021-2024]: **Nanjing University of Science and Technology**, China 
+[2021 to 2024] **Nanjing University of Science and Technology**, China 
 - Research Master of Arts in Linguistics
--- Thesis: Mandarin Ironic Speech Comprehension by Normal-Hearing Children and Children with Cochlear Implants (Supervisor: Dr. Ping Tang)
+- Thesis: Mandarin Ironic Speech Comprehension by Normal-Hearing Children and Children with Cochlear Implants (Supervisor: Dr. Ping Tang)
 
-[2017-2021]: **Nanjing University of Science and Technology**, China
+[2017 to 2021] **Nanjing University of Science and Technology**, China
 - Bachelor of Arts in English 
--- Thesis: Role of High-Variability Phonetic Training on Chinese EFL Learners’ Identification and Discrimination of English Tense-Lax Vowel Contrasts /ɑ/-/ʌ/ and /i/–/ɪ/ (Supervisor: Dr. Ping Tang)
+   Thesis: Role of High-Variability Phonetic Training on Chinese EFL Learners’ Identification and Discrimination of English Tense-Lax Vowel Contrasts /ɑ/-/ʌ/ and /i/–/ɪ/ (Supervisor: Dr. Ping Tang)
 
 
 
