@@ -21,7 +21,7 @@ With a background in Linguistics, especially in phonetics, I am also deeply inte
 
 [2017 to 2021] **Nanjing University of Science and Technology**, China
 - Bachelor of Arts in English 
-   Thesis: Role of High-Variability Phonetic Training on Chinese EFL Learners’ Identification and Discrimination of English Tense-Lax Vowel Contrasts /ɑ/-/ʌ/ and /i/–/ɪ/ (Supervisor: Dr. Ping Tang)
+- Thesis: Role of High-Variability Phonetic Training on Chinese EFL Learners’ Identification and Discrimination of English Tense-Lax Vowel Contrasts /ɑ/-/ʌ/ and /i/–/ɪ/ (Supervisor: Dr. Ping Tang)
 
 
 
