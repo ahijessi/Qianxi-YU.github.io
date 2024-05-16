@@ -29,7 +29,7 @@ With a background in Linguistics, especially in phonetics, I am also deeply inte
 - **Yu, Q.**, Li, H., Li, S., & Tang, P. (In press). Prosodic and Visual Cues Facilitate Irony Comprehension by Mandarin-Speaking Children with Cochlear Implants. Journal of Speech, Language and Hearing Research. (SSCI, Q1)
 - Tang, P., Shen, Y., Li, S., **Yu, Q.**,& Feng, Y. (In press). Visual-Articulatory Cues Facilitate Children with CIs to better perceive Mandarin Tones in Sentences. Speech Communication. (SCIE, Q2)
 - Li, S., Wang, Y., Feng, Y., **Yu, Q.**, & Tang, P. (In press). The Effect of Visual-Articulatory Cues on the Identification of Mandarin Tones by Children with Cochlear Implants. Journal of Speech, Language and Hearing Research. (SSCI, Q1)
-- **Yu, Q.**, Shen, Y., Wang, L., & Tang, P. (2023). <a href="https://github.com/Hanchao-Zhang/LeetCode-Prep/blob/main/main.pdf" target="_blank">*The Acquisition of Mandarin Tones by Children with Cochlear Implants: Effects of Age at Implantation and Cochlear Implant Experience*</a>. Chinese Journal of Phonetics. (AMI Core journal in China)
+- **Yu, Q.**, Shen, Y., Wang, L., & Tang, P. (2023). <a href="https://github.com/ahijessi/Qianxi-YU.github.io/assets/files/paper2.pdf" target="_blank">*The Acquisition of Mandarin Tones by Children with Cochlear Implants: Effects of Age at Implantation and Cochlear Implant Experience*</a>. Chinese Journal of Phonetics. (AMI Core journal in China)
 - **Yu, Q.**, & Tang, P. (2021). The Role of High Variability Phonetic Training on Chinese EFL Learners’ Perception of English Vowels in Noisy Environment. In Proceedings of the 24th Conference of the Oriental COCOSDA International Speech Databases and Assessment Techniques (O-COCOSDA), November 18-20, Singapore (pp. 94-99).IEEE. (EI)- <a href="https://github.com/Hanchao-Zhang/LeetCode-Prep/blob/main/main.pdf" target="_blank">*A Coding Question Prep*</a> by Hanchao Zhang
 
 ## Conference Presentations
@@ -44,7 +44,11 @@ With a background in Linguistics, especially in phonetics, I am also deeply inte
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019. -->
 - **[Feb. 2023]** <a href="https://www.sciencedirect.com/science/article/pii/S089990072200346X" target="_blank">*Low muscle mass is associated with a higher risk of all–cause and cardiovascular disease–specific mortality in cancer survivors*</a> has been accepted by **Nutrition**. 
-- **[Aug. 2021]** <a href="https://www.jmcp.org/doi/full/10.18553/jmcp.2021.27.10.1482" target="_blank">*Validation of EHR medication fill data obtained through electronic linkage with pharmacies*</a> has been accepted by the **Journal of Managed Care & Specialty Pharmacy**.
+- **[Aug. 2021]** <a href="https://www.jmcp.org/doi/full/10.18553/jmcp.2021.27.10.1482
+        
+        
+        
+        " target="_blank">*Validation of EHR medication fill data obtained through electronic linkage with pharmacies*</a> has been accepted by the **Journal of Managed Care & Specialty Pharmacy**.
 - **[Jan. 2021]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jocd.13486" target="_blank">*Quantitative evaluation of rejuvenation treatment of nasolabial fold wrinkles by regression model and 3D photography*</a> has been accepted by the **Journal of Cosmetic Dermatology**.
 
 
