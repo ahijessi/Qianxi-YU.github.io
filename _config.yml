@@ -5,11 +5,11 @@ title: Qianxi Yu (余千禧)
 # subtitle:
 position: Research Assistant
 # subposition: Chair of the Chinese Student and Scholar Association (CSSA)
-subposition_link: https://nyu-medicine-cssa.github.io
+#subposition_link: https://nyu-medicine-cssa.github.io
 affiliation: Zhejiang University
 subaffiliation: College of Biomedical Engineering and Instrumentation Science 
-affiliation_link:
-subaffiliation_link: 
+#affiliation_link:
+#subaffiliation_link: 
 email: yqx912@gmail.com
 address: 
 address_link: 
@@ -22,7 +22,7 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.
-researchgate: https://www.researchgate.net/profile/Qianxi-Yu
+#researchgate: https://www.researchgate.net/profile/Qianxi-Yu
 cv_link: assets/files/YuQianxi_CV_2024.pdf
 #github_link: https://github.com/Hanchao-Zhang
 #linkedin: https://www.linkedin.com/in/hanchao-ted-zhang-670105b7/?locale=en_US
