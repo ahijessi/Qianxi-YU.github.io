@@ -57,16 +57,16 @@ I love walking through nature, breathing in  the fresh air, and basking in the s
 
 Playing with my cat is another source of comfort and relaxation, as there's nothing quite like the feel of her soft fur.
 <p> 
-   <img src="https://github.com/ahijessi/Qianxi-YU.github.io/assets/78820942/68d78a4e-bc2a-4bb0-88ab-3efddd718411" width="200" height="200">
+   <img src="https://github.com/ahijessi/Qianxi-YU.github.io/assets/78820942/db6f4f24-d3d3-45d1-8f64-c870373803d7" width="200" height="200">
    <img src="https://github.com/ahijessi/Qianxi-YU.github.io/assets/78820942/4dce54f8-736a-47b4-90d3-d28a91c96ebc" width="200" height="200">
 </p>
+
 
 
 I love delicious food, and I also find joy in transforming raw ingredients into finished dishes.
 <p> 
    <img src="https://github.com/ahijessi/Qianxi-YU.github.io/assets/78820942/41bdef1c-a28c-4148-9eb9-9fb8a0645610" width="200" height="200">
-   <img src="https://github.com/ahijessi/Qianxi-YU.github.io/assets/78820942/ee42b4dc-c115-4e09-8e05-56599d803096" width="200" height="200">
+   <img src="https://github.com/ahijessi/Qianxi-YU.github.io/assets/78820942/78bb8e59-7d52-44b0-8f8b-841258656483" width="200" height="200">
 </p>
-
 
  
