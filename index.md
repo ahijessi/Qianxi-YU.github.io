@@ -49,7 +49,8 @@ With a background in Linguistics, especially in phonetics, I am also deeply inte
 I believe life is like a layer cake, with research being just one delicious slice. 
 Beyond research, life offers myriad joys. 
 
-I love walking through nature, breathing in  the fresh air, and basking in the sunshine.(https://github.com/ahijessi/Qianxi-YU.github.io/tree/master/assets/img/lake.jpg width="100" height="100") 
+I love walking through nature, breathing in  the fresh air, and basking in the sunshine.<img src="https://github.com/ahijessi/Qianxi-YU.github.io/assets/78820942/385cc864-534e-4431-a28e-f6bf5a48eae8" width="300" height="300">
+
 
 
 Playing with my cat is another source of comfort and relaxation, as there's nothing quite like the feel of her soft fur.![cat](https://github.com/ahijessi/Qianxi-YU.github.io/assets/78820942/a97f00ab-b724-4540-97e8-7678a847e097)
