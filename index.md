@@ -17,11 +17,11 @@ With a background in Linguistics, especially in phonetics, I am also deeply inte
 ## Education
 2021-2024: Nanjing University of Science and Technology, China 
 - Research Master of Arts in Linguistics
-- Thesis: Mandarin Ironic Speech Comprehension by Normal-Hearing Children and Children with Cochlear Implants | Supervisor: Dr. Ping Tang
+-- Thesis: Mandarin Ironic Speech Comprehension by Normal-Hearing Children and Children with Cochlear Implants (Supervisor: Dr. Ping Tang)
 
 2017-2021: Nanjing University of Science and Technology, China
 - Bachelor of Arts in English 
-- Thesis: Role of High-Variability Phonetic Training on Chinese EFL Learners’ Identification and Discrimination of English Tense-Lax Vowel Contrasts /ɑ/-/ʌ/ and /i/–/ɪ/ | Supervisor: Dr. Ping Tang
+-- Thesis: Role of High-Variability Phonetic Training on Chinese EFL Learners’ Identification and Discrimination of English Tense-Lax Vowel Contrasts /ɑ/-/ʌ/ and /i/–/ɪ/ (Supervisor: Dr. Ping Tang)
 
 
 
@@ -29,7 +29,7 @@ With a background in Linguistics, especially in phonetics, I am also deeply inte
 - **Yu, Q.**, Li, H., Li, S., & Tang, P. (In press). Prosodic and Visual Cues Facilitate Irony Comprehension by Mandarin-Speaking Children with Cochlear Implants. Journal of Speech, Language and Hearing Research. (SSCI, Q1)
 - Tang, P., Shen, Y., Li, S., **Yu, Q.**,& Feng, Y. (In press). Visual-Articulatory Cues Facilitate Children with CIs to better perceive Mandarin Tones in Sentences. Speech Communication. (SCIE, Q2)
 - Li, S., Wang, Y., Feng, Y., **Yu, Q.**, & Tang, P. (In press). The Effect of Visual-Articulatory Cues on the Identification of Mandarin Tones by Children with Cochlear Implants. Journal of Speech, Language and Hearing Research. (SSCI, Q1)
-- **Yu, Q.**, Shen, Y., Wang, L., & Tang, P. (2023). The Acquisition of Mandarin Tones by Children with Cochlear Implants: Effects of Age at Implantation and Cochlear Implant Experience. Chinese Journal of Phonetics. (AMI Core journal in China)
+- **Yu, Q.**, Shen, Y., Wang, L., & Tang, P. (2023). <a href="https://github.com/Hanchao-Zhang/LeetCode-Prep/blob/main/main.pdf" target="_blank">*The Acquisition of Mandarin Tones by Children with Cochlear Implants: Effects of Age at Implantation and Cochlear Implant Experience*</a>. Chinese Journal of Phonetics. (AMI Core journal in China)
 - **Yu, Q.**, & Tang, P. (2021). The Role of High Variability Phonetic Training on Chinese EFL Learners’ Perception of English Vowels in Noisy Environment. In Proceedings of the 24th Conference of the Oriental COCOSDA International Speech Databases and Assessment Techniques (O-COCOSDA), November 18-20, Singapore (pp. 94-99).IEEE. (EI)- <a href="https://github.com/Hanchao-Zhang/LeetCode-Prep/blob/main/main.pdf" target="_blank">*A Coding Question Prep*</a> by Hanchao Zhang
 
 ## Conference Presentations
