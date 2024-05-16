@@ -39,13 +39,24 @@ With a background in Linguistics, especially in phonetics, I am also deeply inte
 - [2021, Singapore] **The 24th Conference of the Oriental COCOSDA International Speech Databases and Assessment Techniques (O-COCOSDA) Singapore** (Oral presentation)
 
 
+## Languages and Skills
+- Languages: Mandarin (native), Southwestern Mandarin (native), English (IELTS 7.5), Korean (TOPIK 2), Japanese (Beginner)
+- Softwares: Praat, Adobe Audition, PsychoPy, Microsoft Office, Latex
+- Programming: R, Praat script, Matlab
+- Data collection: EEG
 
-## Resources
-- <a href="https://github.com/Hanchao-Zhang/LeetCode-Prep/blob/main/main.pdf" target="_blank">*A Coding Question Prep*</a> by Hanchao Zhang
-- <a href="https://github.com/Hanchao-Zhang/LeetQuant-Note/blob/main/Prep/Quant%20Research.pdf" target="_blank">*A Quantatitive Research Interview Prep*</a> by Hanchao Zhang
-<!-- https://yuhangzhou88.github.io/ESL_Solution/  -->
-- <a href="https://yuhangzhou88.github.io/ESL_Solution/" target="_blank">*A Solution Manual of The Elements of Statistical Learning*</a> by Yuhang Zhou 
+## Beyond research
+I believe life is like a layer cake, with research being just one delicious slice. 
+Beyond research, life offers myriad joys. 
+
+I love walking through nature, breathing in  the fresh air, and basking in the sunshine. ![lake](https://github.com/ahijessi/Qianxi-YU.github.io/assets/78820942/01b97db4-0fe9-4c4d-9642-f4e7c7593b03)
 
 
+Playing with my cat is another source of comfort and relaxation, as there's nothing quite like the feel of her soft fur.![cat](https://github.com/ahijessi/Qianxi-YU.github.io/assets/78820942/a97f00ab-b724-4540-97e8-7678a847e097)
 
 
+My musical tastes are eclectic, spanning jazz, hip-hop, K-pop, and classical, and recently, I've been drawn to Afrobeat. 
+
+Cooking is another passion of mine; I find joy in transforming raw ingredients into finished dishes.
+I enjoy walking in nature, breathing the fresh air, and busking in the sunshine.
+ 
