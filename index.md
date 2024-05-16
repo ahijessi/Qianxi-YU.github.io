@@ -49,20 +49,24 @@ With a background in Linguistics, especially in phonetics, I am also deeply inte
 I believe life is like a layer cake, with research being just one delicious slice. 
 Beyond research, life offers myriad joys. 
 
-I love walking through nature, breathing in  the fresh air, and basking in the sunshine.<p>
-  <img src="https://github.com/ahijessi/Qianxi-YU.github.io/assets/78820942/385cc864-534e-4431-a28e-f6bf5a48eae8" width="100" height="100">
-  <img src="https://github.com/ahijessi/Qianxi-YU.github.io/assets/78820942/17d821ec-e808-46d4-b965-341ba649813c" width="100" height="100">
+I love walking through nature, breathing in  the fresh air, and basking in the sunshine.
+<p>
+  <img src="https://github.com/ahijessi/Qianxi-YU.github.io/assets/78820942/385cc864-534e-4431-a28e-f6bf5a48eae8" width="200" height="200">
+  <img src="https://github.com/ahijessi/Qianxi-YU.github.io/assets/78820942/17d821ec-e808-46d4-b965-341ba649813c" width="200" height="200">
 </p>
 
-Playing with my cat is another source of comfort and relaxation, as there's nothing quite like the feel of her soft fur.<img src="https://github.com/ahijessi/Qianxi-YU.github.io/assets/78820942/68d78a4e-bc2a-4bb0-88ab-3efddd718411" width="100" height="100">
+Playing with my cat is another source of comfort and relaxation, as there's nothing quite like the feel of her soft fur.
+<p> 
+   <img src="https://github.com/ahijessi/Qianxi-YU.github.io/assets/78820942/68d78a4e-bc2a-4bb0-88ab-3efddd718411" width="200" height="200">
+   <img src="https://github.com/ahijessi/Qianxi-YU.github.io/assets/78820942/4dce54f8-736a-47b4-90d3-d28a91c96ebc" width="200" height="200">
+</p>
 
 
-
-My musical tastes are eclectic, spanning jazz, hip-hop, K-pop, and classical, and recently, I've been drawn to Afrobeat.<img src="https://github.com/ahijessi/Qianxi-YU.github.io/assets/78820942/f3588462-f850-4b22-b026-57516bf1725b" width="100" height="100">
-
-
-
-Food is another passion of mine, and I also find joy in transforming raw ingredients into finished dishes.
+I love delicious food, and I also find joy in transforming raw ingredients into finished dishes.
+<p> 
+   <img src="https://github.com/ahijessi/Qianxi-YU.github.io/assets/78820942/41bdef1c-a28c-4148-9eb9-9fb8a0645610" width="200" height="200">
+   <img src="https://github.com/ahijessi/Qianxi-YU.github.io/assets/78820942/ee42b4dc-c115-4e09-8e05-56599d803096" width="200" height="200">
+</p>
 
 
  
