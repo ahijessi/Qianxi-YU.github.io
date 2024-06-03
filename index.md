@@ -26,9 +26,9 @@ With a background in Linguistics, especially in phonetics, I am also deeply inte
 
 
 ## Publications
-- **Yu, Q.**, Li, H., Li, S., & Tang, P. (2024). <a href="https://github.com/ahijessi/Qianxi-YU.github.io/tree/master/assets/files/paper3.pdf" target="_blank">*Prosodic and Visual Cues Facilitate Irony Comprehension by Mandarin-Speaking Children with Cochlear Implants*</a>. Journal of Speech, Language and Hearing Research. (SSCI, Q1)
-- Tang, P., Shen, Y., Li, S., **Yu, Q.**,& Feng, Y. (In press). Visual-Articulatory Cues Facilitate Children with CIs to better perceive Mandarin Tones in Sentences. Speech Communication. (SCIE, Q2)
-- Li, S., Wang, Y., **Yu, Q.**, Feng, Y., & Tang, P. (2024). <a href="https://github.com/ahijessi/Qianxi-YU.github.io/tree/master/assets/files/paper4.pdf" target="_blank">*The Effect of Visual-Articulatory Cues on the Identification of Mandarin Tones by Children with Cochlear Implants*</a>. Journal of Speech, Language and Hearing Research. (SSCI, Q1)
+- **Yu, Q.**, Li, H., Li, S., & Tang, P. (2024). <a href="https://github.com/ahijessi/Qianxi-YU.github.io/tree/master/assets/files/paper3.pdf" target="_blank">*Prosodic and Visual Cues Facilitate Irony Comprehension by Mandarin-Speaking Children with Cochlear Implants*</a>. Journal of Speech, Language and Hearing Research. (SSCI, SCI, Q1, IF:2.8)
+- Tang, P., Shen, Y., Li, S., **Yu, Q.**,& Feng, Y. (2024). <a href="https://github.com/ahijessi/Qianxi-YU.github.io/tree/master/assets/files/paper5.pdf" target="_blank">*Visual-Articulatory Cues Facilitate Children with CIs to better perceive Mandarin Tones in Sentences*. Speech Communication. (SCI, Q1, IF: 3.8)
+- Li, S., Wang, Y., **Yu, Q.**, Feng, Y., & Tang, P. (2024). <a href="https://github.com/ahijessi/Qianxi-YU.github.io/tree/master/assets/files/paper4.pdf" target="_blank">*The Effect of Visual-Articulatory Cues on the Identification of Mandarin Tones by Children with Cochlear Implants*</a>. Journal of Speech, Language and Hearing Research. (SSCI,SCI, Q1, IF: 2.8)
 - **Yu, Q.**, Shen, Y., Wang, L., & Tang, P. (2023). <a href="https://github.com/ahijessi/Qianxi-YU.github.io/tree/master/assets/files/paper2.pdf" target="_blank">*The Acquisition of Mandarin Tones by Children with Cochlear Implants: Effects of Age at Implantation and Cochlear Implant Experience*</a>. Chinese Journal of Phonetics. (AMI Core journal in China)
 - **Yu, Q.**, & Tang, P. (2021). <a href="https://github.com/ahijessi/Qianxi-YU.github.io/tree/master/assets/files/paper1.pdf" target="_blank">*The Role of High Variability Phonetic Training on Chinese EFL Learners’ Perception of English Vowels in Noisy Environment*</a>. In Proceedings of the 24th Conference of the Oriental COCOSDA International Speech Databases and Assessment Techniques (O-COCOSDA), November 18-20, Singapore (pp. 94-99).IEEE. (EI)
 
@@ -41,9 +41,9 @@ With a background in Linguistics, especially in phonetics, I am also deeply inte
 
 ## Languages and Skills
 - Languages: Mandarin (native), Southwestern Mandarin (native), English (IELTS 7.5), Korean (TOPIK 2), Japanese (Beginner)
-- Softwares: Praat, Adobe Audition, PsychoPy, Microsoft Office, Latex
-- Programming: R, Praat script, Matlab
-- Data collection: EEG
+- Material processing: Praat, Adobe Audition, Audacity
+- Statistical analysis: R
+- Data collection: PsychoPy, Matlab, EEG
 
 ## Beyond research
 I believe life is like a layer cake, with research being just one delicious slice. 
