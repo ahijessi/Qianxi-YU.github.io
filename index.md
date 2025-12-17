@@ -55,7 +55,7 @@ I love walking through nature, breathing in  the fresh air, and basking in the s
   <img src="https://github.com/ahijessi/Qianxi-YU.github.io/assets/78820942/17d821ec-e808-46d4-b965-341ba649813c" width="200" height="200">
 </p>
 
-Playing with my cat is another source of comfort and relaxation, as there's nothing quite like the feel of her soft fur.
+Spending time with my cat is another source of comfort and relaxation, as there's nothing quite like the feel of her soft fur.
 <p> 
    <img src="https://github.com/ahijessi/Qianxi-YU.github.io/assets/78820942/db6f4f24-d3d3-45d1-8f64-c870373803d7" width="200" height="200">
    <img src="https://github.com/ahijessi/Qianxi-YU.github.io/assets/78820942/4dce54f8-736a-47b4-90d3-d28a91c96ebc" width="200" height="200">
